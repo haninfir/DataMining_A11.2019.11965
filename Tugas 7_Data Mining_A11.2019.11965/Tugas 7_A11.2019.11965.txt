@@ -1,5 +1,0 @@
-DecisionTree_A11.2019.11965.ipynb:
-https://colab.research.google.com/drive/1CB-0-zBDnkgnz-pZCfZmcFYGPHUVe3CJ?usp=sharing
-
-DecisionTree IrishCSV_A11.2019.11965.ipynb:
-https://colab.research.google.com/drive/1cyJwnZdmu2rmKfMDMv9947ljURFkoUMj?usp=sharing
